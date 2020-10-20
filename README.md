@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there, I'm Akansh 👋 Welcome to my small world of code
+### I'm a Full-stack Software Developer and AI Enthusiast! 
 
-<!--
-**akanshSirohi/akanshSirohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills ⚡
+- JAVA | JavaFX
+- CSharp
+- Android
+- React Native | Expo
+- NodeJS
+- ElectronJS
+- <b>M</b>ongoDB <b>E</b>xpressJS <b>R</b>eactJS <b>N</b>odeJS
+- Python
+- PHP | CodeIgnitor
 
-Here are some ideas to get you started:
+### Focusing 🎯
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some cross platform apps
+- 🌱 I’m currently learning many things
+- 👯 I’m looking to collaborate with whoever interested with unique ideas
+- ⚡ Fact: `Sometimes promises are required for callbacks...`
+
+### Connect with me:
+
+` 💬 Feel free to reach me anytime! ` <br>
+` 📫 Just create issue on this repo and I will reply you! `
