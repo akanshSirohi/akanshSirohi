@@ -25,5 +25,4 @@
 ` 📫 Just create issue on this repo and I will reply you! `
 
 ### Random Joke For You
-
-![My Joke Card](https://tools-apis.herokuapp.com/github-jokes-card?theme=dark)
+<img src="https://tools-apis.herokuapp.com/github-jokes-card?theme=dark" />
