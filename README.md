@@ -23,3 +23,7 @@
 
 ` 💬 Feel free to reach me anytime! ` <br>
 ` 📫 Just create issue on this repo and I will reply you! `
+
+### Random Joke For You
+
+![My Joke Card](https://tools-apis.herokuapp.com/github-jokes-card)
