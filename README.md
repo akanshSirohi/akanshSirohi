@@ -26,4 +26,4 @@
 
 ### Random Joke For You
 
-<img src="https://tools-apis.herokuapp.com/github-jokes-card?theme=dark" />
+<img src="https://github-cards-api.herokuapp.com/jokes-card?theme=dark" />
