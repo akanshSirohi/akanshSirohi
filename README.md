@@ -24,6 +24,9 @@
 ` 💬 Feel free to reach me anytime! ` <br>
 ` 📫 Just create issue on this repo and I will reply you! `
 
-### Random Joke For You
-
+### CARDS
+- Random Joke
 <img src="https://github-cards-api.herokuapp.com/jokes-card?theme=dark" />
+
+- Random Quote
+<img src="https://github-cards-api.herokuapp.com/programming-quotes-card" />
