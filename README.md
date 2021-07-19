@@ -22,7 +22,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate with whoever interested with unique ideas
 - ⚡ Fact: `Sometimes promises are required for callbacks...`
 
-### Connect with me:
+### Connect with me 🤝
 [![Linkedin Badge](https://img.shields.io/badge/-akansh--sirohi-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akansh-sirohi)](https://www.linkedin.com/in/akansh-sirohi)
 [![ProtonMail Badge](https://img.shields.io/badge/-akanshsirohi-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:akanshsirohi@protonmail.com)](mailto:akanshsirohi@protonmail.com)
 [![Website Badge](https://img.shields.io/badge/-akanshsirohi.herokuapp.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akanshsirohi.herokuapp.com)](https://akanshsirohi.herokuapp.com)
