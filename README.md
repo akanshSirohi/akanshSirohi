@@ -1,5 +1,5 @@
 ## Hi there, I'm Akansh 👋 Welcome to my small world of code
-### I'm a Full-stack Software Developer and AI Enthusiast! 
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm a Full-stack Software Developer and AI Enthusiast! 
 
 ## My Skills ⚡
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="345" />
@@ -23,7 +23,7 @@
 
 ### Connect with me:
 
-` 💬 Feel free to reach me anytime! ` <br>
+` 💬 Feel free to reach me anytime ` <br>
 ` 📫 Just create issue on this repo and I will reply you! `
 
 ### CARDS
