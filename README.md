@@ -1,8 +1,8 @@
-## Hi there, I'm Akansh 👋 Welcome to my small world of code
+## Hi there, I'm Akansh <img src="https://github.com/akanshSirohi/akanshSirohi/blob/main/hi.gif?raw=true" width="30"/> Welcome to my small world of code
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm a Full-stack Software Developer and AI Enthusiast! 
 
 ## My Skills ⚡
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="345" />
+<img align="right" alt="GIF" src="https://github.com/akanshSirohi/akanshSirohi/blob/main/code.gif?raw=true" width="500" height="345" />
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
