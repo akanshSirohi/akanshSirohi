@@ -1,5 +1,6 @@
 ## Hi there, I'm Akansh <img src="https://github.com/akanshSirohi/akanshSirohi/blob/main/hi.gif?raw=true" width="30"/> Welcome to my small world of code
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm a Full-stack Software Developer and AI Enthusiast! 
+This is the place where I opensource stuff and break things 🤣
 
 ## My Skills ⚡
 <img align="right" alt="GIF" src="https://github.com/akanshSirohi/akanshSirohi/blob/main/code.gif?raw=true" width="500" height="345" />
