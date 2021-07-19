@@ -28,8 +28,11 @@ This is the place where I opensource stuff and break things 🤣
 [![Website Badge](https://img.shields.io/badge/-akanshsirohi.herokuapp.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akanshsirohi.herokuapp.com)](https://akanshsirohi.herokuapp.com)
 [![Twitter Badge](https://img.shields.io/badge/-@akansh__sirohi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akansh__sirohi)](https://twitter.com/akansh__sirohi)
 
-` 💬 Feel free to reach me anytime ` <br>
-` 📫 You can also create issue on this repo about your query! `
+💬 Feel free to reach me anytime  <br>
+📫 You can also create issue on this repo about your query!
+
+### My Digital Card 🖥️
+Write the following command in your terminal to view it: `npx akansh`
 
 ### CARDS
 - Random Joke
