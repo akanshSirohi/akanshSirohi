@@ -40,3 +40,5 @@ Write the following command in your terminal to view it: `npx akansh`
 
 - Random Quote
 <img src="https://github-cards-api.herokuapp.com/programming-quotes-card" />
+
+![](https://komarev.com/ghpvc/?username=akanshSirohi&color=brightgreen&label=Visitors)
