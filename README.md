@@ -41,4 +41,6 @@ Write the following command in your terminal to view it: `npx akansh`
 - Random Quote
 <img src="https://github-cards-api.herokuapp.com/programming-quotes-card" />
 
+Get Your Own Card From Here: https://github.com/akanshSirohi/Github-Cards-API
+
 ![](https://komarev.com/ghpvc/?username=akanshSirohi&color=brightgreen&label=Visitors)
