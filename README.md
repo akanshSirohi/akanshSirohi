@@ -17,9 +17,11 @@ This is the place where I opensource stuff and break things 🤣
 
 ### Focusing 🎯
 
-- 🔭 I’m currently working on some cross platform apps
+- 🔭 I’m currently working on some magical things... 😜
 - 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate with whoever interested with unique ideas
+- 📌 Based on India 🇮🇳
+- 💬 Ask me about anything. I won't know the answer anyway
 - ⚡ Fact: `Sometimes promises are required for callbacks...`
 
 ### Connect with me 🤝
