@@ -27,7 +27,7 @@ This is the place where I opensource stuff and break things 🤣
 ### Connect with me 🤝
 [![Linkedin Badge](https://img.shields.io/badge/-akansh--sirohi-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akansh-sirohi)](https://www.linkedin.com/in/akansh-sirohi)
 [![ProtonMail Badge](https://img.shields.io/badge/-akanshsirohi-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:akanshsirohi@protonmail.com)](mailto:akanshsirohi@protonmail.com)
-[![Website Badge](https://img.shields.io/badge/-akanshsirohi.herokuapp.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akanshsirohi.herokuapp.com)](https://akanshsirohi.herokuapp.com)
+[![Website Badge](https://img.shields.io/badge/-akansh.onrender.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://akansh.onrender.com)](https://akansh.onrender.com)
 [![Twitter Badge](https://img.shields.io/badge/-@akansh__sirohi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/akansh__sirohi)](https://twitter.com/akansh__sirohi)
 
 💬 Feel free to reach me anytime  <br>
