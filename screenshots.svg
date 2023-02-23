@@ -1,0 +1,74 @@
+<svg fill="none" viewBox="0 0 800 1666" width="800" height="1666" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                #carousel {
+                    width: 100%;
+                    height: 100%;
+                    overflow-x: scroll;
+                    overflow-y: hidden;
+                    white-space: nowrap;
+                }
+
+                #carousel .slide {
+                    display: contents;
+                }
+
+                img {
+                    width: 30%;
+                }
+            </style>
+
+            <div id="carousel">
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/8.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/9.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/10.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/11.png?raw=true"
+                        width="" />
+                </div>
+                <div class="slide">
+                    <img src="https://github.com/akanshSirohi/ShareX/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/12.png?raw=true"
+                        width="" />
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
