@@ -15,6 +15,8 @@ This is the place where I opensource stuff and break things 🤣
 - <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 - <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
 
+[![An image of @akanshsirohi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akanshsirohi)](https://holopin.io/@akanshsirohi)
+
 ### Focusing 🎯
 
 - 🔭 I’m currently working on some magical things... 😜
