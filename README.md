@@ -40,10 +40,10 @@ Write the following command in your terminal to view it: `npx akansh`
 
 ### CARDS
 - Random Joke
-<img src="https://github-cards.onrender.com/jokes-card?theme=dark" />
+<img src="https://afraid-ninnetta-github-cards.koyeb.app/jokes-card?theme=dark" />
 
 - Random Quote
-<img src="https://github-cards.onrender.com/programming-quotes-card" />
+<img src="https://afraid-ninnetta-github-cards.koyeb.app/programming-quotes-card" />
 
 Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
 
