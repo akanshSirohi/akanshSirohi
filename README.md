@@ -50,6 +50,6 @@ Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/
 -->
 
 ### Quote Card
-<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=DARK" />
+<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=galactic_dusk" />
 
 ![](https://komarev.com/ghpvc/?username=akanshSirohi&color=brightgreen&label=Visitors)
