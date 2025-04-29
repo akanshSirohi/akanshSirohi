@@ -42,18 +42,14 @@ This is the place where I opensource stuff and break things 🤣
 ### My Digital Card 🖥️
 Write the following command in your terminal to view it: `npx akansh`
 
-<!--
+
 ### CARDS
 - Random Joke
-<img src="https://afraid-ninnetta-github-cards.koyeb.app/jokes-card?theme=dark" />
+<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/jokes-card" />
 
 - Random Quote
-<img src="https://afraid-ninnetta-github-cards.koyeb.app/programming-quotes-card" />
+<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=aurora_borealis" />
 
 Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
--->
-
-### Quote Card
-<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=galactic_dusk" />
 
 ![](https://komarev.com/ghpvc/?username=akanshSirohi&color=brightgreen&label=Visitors)
