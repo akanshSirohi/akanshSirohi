@@ -43,13 +43,12 @@ This is the place where I opensource stuff and break things 🤣
 Write the following command in your terminal to view it: `npx akansh`
 
 
-### CARDS
-- Random Joke
-<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/jokes-card" />
-
-- Random Quote
-<img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=aurora_borealis" />
-
-Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
+---
+  
+  <img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/jokes-card" />
+  <img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=aurora_borealis" />
+  Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
+  
+---
 
 ![](https://komarev.com/ghpvc/?username=akanshSirohi&color=brightgreen&label=Visitors)
