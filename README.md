@@ -44,10 +44,12 @@ Write the following command in your terminal to view it: `npx akansh`
 
 
 ---
+
+  ![Jokes Card](https://github-cards-worker.akanshsirohi-dev.workers.dev/jokes-card?theme=custom&card_color=bGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCAjNDM0MzQzIDAlLCBibGFjayAxMDAlKQ&bg_color=bGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCAjNmExMWNiIDAlLCAjMjU3NWZjIDEwMCUp&font_color=fff&shadow_color=000&text_align=mm&outer_pad=20&card_width=450&google_font=Share+Tech)
   
-  <img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/jokes-card" />
-  <img src="https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-quotes-card?theme=aurora_borealis" />
-  Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
+  ![Programming Facts Card](https://github-cards-worker.akanshsirohi-dev.workers.dev/programming-facts-card?theme=custom&card_color=bGluZWFyLWdyYWRpZW50KHRvIHJpZ2h0LCAjNDM0MzQzIDAlLCBibGFjayAxMDAlKQ&bg_color=bGluZWFyLWdyYWRpZW50KHRvIHRvcCwgI2NjMjA4ZSAwJSwgIzY3MTNkMiAxMDAlKQ&font_color=fff&shadow_color=000&text_align=mm&outer_pad=20&card_width=450&google_font=Cal+Sans)
+
+Get Your Own Card From Here: [Github Cards API](https://github.com/akanshSirohi/Github-Cards-API)
   
 ---
 
